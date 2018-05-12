@@ -1,0 +1,30 @@
+_repo: American-Grape-TrainingAmerican-Grapes_39779
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39779-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Bailey, L. H. (Liberty Hyde)
+    alias: Bailey, Liberty Hyde
+    birthdate: 1858
+    deathdate: 1954
+    gutenberg_agent_id: '3089'
+    url: http://www.gutenberg.org/2009/agents/3089
+    wikipedia: http://en.wikipedia.org/wiki/Liberty_Hyde_Bailey
+description: ''
+gutenberg_issued: '2012-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39779'
+  lccn: '11030260'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Viticulture -- United States'
+title: "American Grape Training\r\nAn account of the leading forms now in use of Training\
+  \ the American Grapes"
+url: http://www.gutenberg.org/ebooks/39779
